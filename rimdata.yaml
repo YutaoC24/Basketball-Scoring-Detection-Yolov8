@@ -1,0 +1,7 @@
+train: ../../Dataset2/train/images
+val: ../../Dataset2/valid/images
+test: ../../Dataset2/test/images
+
+nc: 2
+# names: ['basketball', 'people', 'rim']
+names: ['rim', 'basketball']

@@ -1,0 +1,3 @@
+ultralytics
+cv2
+numpy

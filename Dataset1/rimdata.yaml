@@ -1,0 +1,13 @@
+train: ../../Dataset1/train/images
+val: ../../Dataset1/valid/images
+test: ../../Dataset1/test/images
+
+nc: 3
+names: ['basketball', 'people', 'rim']
+
+roboflow:
+  workspace: ball101
+  project: rim-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ball101/rim-detection/dataset/1

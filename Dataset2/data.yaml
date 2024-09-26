@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['basketball', 'rim']
+
+roboflow:
+  workspace: yyf
+  project: ball-detector-y6tgg
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yyf/ball-detector-y6tgg/dataset/2
