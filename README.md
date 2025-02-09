@@ -14,4 +14,5 @@ pip install -r requirements.txt
 Please follow the comments in ScoreDetect.ipynb to customize the detection and visualization process.
 
 ### Demo ###
-https://raw.githubusercontent.com/YutaoC24/Basketball-Scoring-Detection-Yolov8/main/testVideo3Make.mp4
+https://github.com/user-attachments/assets/01797f2d-f738-488e-89e4-4fa028aebafc
+
